@@ -1,6 +1,5 @@
-Flask 
+flask
 requests
-datetime
-os
-threading
-
+httpx
+python-dotenv
+gunicorn
